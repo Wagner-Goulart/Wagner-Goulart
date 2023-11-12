@@ -1,26 +1,27 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Olá 👋
 
- <div>
-   <a href="https://github.com/Wagner-Goulart">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wagner-Goulart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-Goulart&layout=compact&langs_count=6&theme=tokyonight"/>
+<p align="left"> 
+ Me chamo Wagener Goulart, estudando de desenvolimento Web, sempre buscando novas conhecimentos e aprendizados.
+</p>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Fique a vontade para entrar em contato:
- 
-<div> 
-  <a href = "mailto:wagnergoular.itj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wagner-goulart-2b9843268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Wagner-Goulart/Wagner-Goulart/blob/output/github-contribution-grid-snake.svg)
+<p align="left">
+ <h1>Tecnologias: </h1>
+    <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,angular,nodejs" />
+  </a>
+</p>
 
-</div>
+<p align="left">
+  <h2>Fique a vontade para entrar em contato: ⤵️</h2>
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wagnergoulart.itj@gmail.com" /></a>
+
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-goulart/" /></a>
+</p>
+_________________________________
